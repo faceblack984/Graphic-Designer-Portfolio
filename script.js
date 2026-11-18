@@ -116,11 +116,6 @@ const PROJECTS = {
       title: "Personal Brand",
       text: "This is a Business Card for my personal brand."
     }
-    {
-      src: "Projects/Logo 1.png",
-      title: "Personal Brand",
-      text: "This is a fictional logo i created."
-    }
   ],
   "Poster Design": [{
     src: "Projects/Poster.png",
