@@ -1195,3 +1195,10 @@ body.lock {
   gap: 2px;
   line-height: 1.2;
 }
+
+h1 .ln {
+  display: block;
+  overflow: hidden;
+  padding-bottom: .22em;
+  margin-bottom: -.14em
+}
