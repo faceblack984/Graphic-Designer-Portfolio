@@ -121,6 +121,26 @@ const PROJECTS = {
       title: "Personal Brand",
       text: "This is a Business Card for my personal brand."
     }
+    {
+      src: "Projects/LOGO.png",
+      title: "Logo for a Printing Business",
+      text: "This is a logo i designed for one of my projects while attending a graphic design program."
+    }
+    {
+      src: "Projects/Business card2.png",
+      title: "Business Card for a printing business",
+      text: "This is a Business Card i designed along with the Nexera logo for one of my projects."
+    }
+    {
+    src: "Projects/Poster.png",
+    title: "Personal Poster",
+    text: "This is my personal poster for my brand which consists of services I offer."
+    }
+    {
+    src: "Projects/Flyer.png",
+    title: "Flyer for a printing Business",
+    text: "This is a flyer i created for the Nexera printing business."
+    }
   ],
   "Poster Design": [{
     src: "Projects/Poster.png",
