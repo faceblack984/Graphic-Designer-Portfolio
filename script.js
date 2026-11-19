@@ -120,33 +120,39 @@ const PROJECTS = {
       src: "Projects/Logo 1.png",
       title: "Personal Brand",
       text: "This is a Business Card for my personal brand."
-    }
+    },
     {
       src: "Projects/LOGO.png",
       title: "Logo for a Printing Business",
-      text: "This is a logo i designed for one of my projects while attending a graphic design program."
-    }
+      text: "This is a logo for a printing business."
+    },
+    {
+      src: "Projects/Flyer.png",
+      title: "Flyer for a Printing Business",
+      text: "This is a flyer for a printing business."
+    },
     {
       src: "Projects/Business card2.png",
-      title: "Business Card for a printing business",
-      text: "This is a Business Card i designed along with the Nexera logo for one of my projects."
-    }
+      title: "Business Card for a Printing Business",
+      text: "This is a business card for a printing business."
+    },
     {
     src: "Projects/Poster.png",
     title: "Personal Poster",
     text: "This is my personal poster for my brand which consists of services I offer."
     }
+    ],
+  "Poster Design": [{
+    src: "Projects/Week 7 (1).png",
+    title: "Healthy Skin Poster",
+    text: "This is a poster for a healthy skin campaign."
+    },
     {
-    src: "Projects/Flyer.png",
-    title: "Flyer for a printing Business",
-    text: "This is a flyer i created for the Nexera printing business."
+    src: "Projects/Week 7 p.png",
+    title: "Healthy Skin AD",
+    text: "This is a social media ad for a healthy skin campaign."
     }
   ],
-  "Poster Design": [{
-    src: "Projects/Poster.png",
-    title: "Personal Poster",
-    text: "This is my personal poster for my brand which consists of services I offer."
-  }, ],
   "Packaging": [
     // { src: "images/packaging/pack-1.jpg", title: "Packaging name", text: "Short description" },
   ],
